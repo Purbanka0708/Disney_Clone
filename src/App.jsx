@@ -9,6 +9,7 @@ function App() {
   return (
     <div className='h-screen w-full bg-black'>
       <Header/>
+      <Slider/>
     </div>
     
   )
